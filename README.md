@@ -7,12 +7,12 @@ There are 5 objects and any player can take any of 1,2 or 3 objects from left to
 
 # Learning
 
-The states of the game are:```
-xxxxx
--xxxx
---xxx
----xx
-----x```
+The states of the game are:
+xxxxx<br /> 
+-xxxx<br /> 
+--xxx<br /> 
+---xx<br /> 
+----x<br /> 
 where x is the object and - is an object that has been taken.
 
 There are 5 boxes, one for each state and there are dots placed in the boxes representing beads which are the actions the agent can take in that state.  In Donald Michies original experiment, colored beads were randomly drawn and the agent would take that action, affecting the world.  After the game is over, for each state the game was in the agent's actions are reinforced by either putting 2 colored beads matching the action taken in that state back into the box if the agent WON or by taking 1 of that color out if the agent lost.  
