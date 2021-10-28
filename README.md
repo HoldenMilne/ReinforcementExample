@@ -7,7 +7,7 @@ There are 5 objects and any player can take any of 1,2 or 3 objects from left to
 
 # Learning
 
-The states of the game are:
+The states of the game are:<br /> 
 xxxxx<br /> 
 -xxxx<br /> 
 --xxx<br /> 
